@@ -1,0 +1,7 @@
+UART POrt Number, TX pin, RX pin, Port name
+UART0, 8, 10, /dev/ttyS0
+UART1, 8, 10, /dev/ttyAMA0
+UART2, 27, 28, /dev/ttyAMA1
+UART3, 7, 29, /dev/ttyAMA2
+UART4, 24, 21, /dev/ttyAMA3
+UART5, 32, 33, /dev/ttyAMA4

@@ -1,0 +1,2 @@
+Port:/dev/ttyAMA2
+Baudrate:9600
